@@ -1,0 +1,3 @@
+inurl:"/product.php?id="
+inurl:"/product.php?cat="
+inurl:"/*.php?ProductId="
