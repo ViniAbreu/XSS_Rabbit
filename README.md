@@ -71,3 +71,9 @@
 ![Version Desktop](http://imgur.com/jShH95yl.png)
 
 ![Vesion Mobile](https://imgur.com/ESyPqrj.png)
+
+
+## Video Tutorial
+
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=CK3gP6b8uG4" target="_blank"><img src="https://i.ytimg.com/vi/CK3gP6b8uG4/default.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
